@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "app_id": "Elementary_LS1_English",
+  "bank_version": "1.0.0",
+  "trial_size": 30,
+  "foundation_count": 90,
+  "foundation_sha256": "ffb6381e3b7318ba2a79207a3803679eea7e53943ff7b4742602c285cb94d057",
+  "foundation_sets": [
+    "A",
+    "B",
+    "C"
+  ],
+  "curriculum_reference": "DepEd 2026 Revised ALS CG",
+  "new_guideline_sources": [],
+  "sets": [],
+  "description": "Append only new sets here. Existing foundation A-C is locked."
+}
